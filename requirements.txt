@@ -1,0 +1,11 @@
+llama-index
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
+chromadb
+sentence-transformers
+torch
+langchain
+langchain-community
+python-dotenv
+pyserial
+platformio
